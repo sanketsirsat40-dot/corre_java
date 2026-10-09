@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Constructors;
 class Studen {
 
     String name;
